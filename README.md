@@ -1,5 +1,5 @@
 # 💫 About Me:
-It’s Kashish a 21’st century guy (!🐄) who Fall in Love 💖💘<br>with Coding and Computer Science.<br><br>🌱 Currently Learning- Data Structures and Algorithms in C++<br>🔭 A Problem Solving Mindset Guy.<br>💝 Loves Web Development.<br>⚒ Made some cool projects on Web Development.<br>💻 Tech and DSA Enthusiast.<br>👨🏻‍🎓 Coder Army Student.<br>🙏🏻 Inspired from “BHAGWAT GEETA”…<br><br>🏓 Hobbies- Coding (Primary), DSA, Problem Solving,<br>Video Editing and Cinematography📽🎥, Gaming 🎮.<br><br>⚡Fun Fact: I am fond of Gaming.<br><br>⏺Recommended: Read Bhagwat Geeta…<br><br>🔚NOT THE END… THINKING AND WORKING…
+It’s Kashish a 21’st century guy (!🐄) who Fall in Love 💖💘<br>with Coding and Computer Science.<br><br>🌱 Currently Learning- Full Stack Web Development<br>🔭 A Problem Solving Mindset Guy.<br>💝 Loves Web Development.<br>⚒ Made some cool projects on Web Development.<br>💻 Tech and Web Enthusiast.<br>👨🏻‍🎓 Project Builder Mindset.<br>🙏🏻 Inspired from “Stoicism”…<br><br>🏓 Hobbies- Coding (Primary), Cinema, Problem Solving,<br>Video Editing and Cinematography📽🎥, Gaming 🎮.<br><br>⚡Fun Fact: I am fond of Gaming.<br><br>⏺Recommended: Read Stoicism…<br><br>🔚NOT THE END… THINKING AND WORKING…
 
 
 ## 🌐 Socials:
